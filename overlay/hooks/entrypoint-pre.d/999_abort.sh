@@ -1,5 +1,9 @@
 #!/bin/bash
 
+echo ""
+echo ""
+echo "CRITICAL ABORT"
+echo ""
 echo "You have pulled an out of date steamcache.net container"
 echo ""
 echo "Steamcache.net rebranded to LanCache.net in 2019"
